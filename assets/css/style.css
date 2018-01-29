@@ -1,0 +1,12 @@
+h1 { color:bold;
+ }
+
+body{
+	font-family: 'Josefin Slab', serif !important;
+	color: black !important;
+    background-image: url("../images/confetti_back.jpg");
+}
+
+p {
+	font-size: 20px;
+}
